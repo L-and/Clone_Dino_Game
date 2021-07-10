@@ -1,0 +1,5 @@
+background 1200x700
+stage 1200x100
+character 67x120
+enemy1 70x100
+enemy2 70x150
